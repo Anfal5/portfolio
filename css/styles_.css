@@ -1,4 +1,10 @@
 
+.intro{
+    font-size: 3.5rem;
+}
+.desc{
+    font-size: 1.2rem;
+}
 .masthead {
     position: relative;
     width: 100%;
